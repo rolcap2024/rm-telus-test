@@ -1,5 +1,6 @@
 # rm-telus-test
 Just a short test
 
-Run npm install
-Run node app.js
+## Installation
+1. Run npm install
+2. Run node app.js
